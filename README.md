@@ -1,7 +1,7 @@
 Tvým úkolem  je vizualizovat tebou zvolený dataset podle níže zadaných kritérií.
 
 Kritéria
-Finální PBI musí splňovat tato kritéria:
+  Finální PBI musí splňovat tato kritéria:
 Rozsah 2-3 stránky
 Použití minimálně 5 různých typů vizuálů
 Filtrování pomocí slicerů
