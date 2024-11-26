@@ -1,7 +1,3 @@
-Zadání
-Tentokrát nebudeš odpovídat na otázky, ale je zcela na tvém výběru, které ukazatele jsou pro tebe nejzajímavější.
-Můžeš se tedy samozřejmě inspirovat otázkami z prvního projektu, hlavně je ale musíš vhodným způsobem graficky zobrazit v Power BI reportu.
-
 Tvým úkolem tedy je vizualizovat tebou zvolený dataset podle níže zadaných kritérií.
 
 Kritéria
